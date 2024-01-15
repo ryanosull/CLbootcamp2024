@@ -1,15 +1,15 @@
 {
-    "name": "",
-    "description": "",
-    "image": "",
+    "name": "pic2",
+    "description": "this is picture 2",
+    "image": "https://moccasin-fascinating-egret-422.mypinata.cloud/ipfs/QmcpNMtoAtf2PUdst3mgeDGo8LVT2dvhvdEfUveitmPs6C/Screenshot_20230919-133803_FamilyAlbum.jpg",
     "attributes": [
         {
-            "trait-type": "",
-            "value": ""
+            "trait-type": "Number of people",
+            "value": "2"
         },
         {
-            "trait-type": "",
-            "value": ""
+            "trait-type": "Location",
+            "value": "park"
         }
     ]
 }
